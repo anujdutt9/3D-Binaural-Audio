@@ -18,6 +18,12 @@ Download the code as a .zip file or clone this repository using:
 git clone https://github.com/anujdutt9/3D-Binaural-Audio.git
 ```
 
+## Use pre-built APK
+
+To install the pre-built apk, download the APK from [here](https://github.com/anujdutt9/3D-Binaural-Audio/blob/master/APK/BinauralAudio.apk) and install it on your phone. Once, the app is installed, follow steps 7 to 11 as mentioned above.
+
+**NOTE: This APK has been built and tested on Google Pixel and Google Pixel 2 XL.**
+
 ## Build App using Code
 
 **1.** To build this app, open this project in Android Studio using:
@@ -59,9 +65,3 @@ Build
 **11.** With the "AR Android Object" in front on the screen, try rotating slowly in clockwise or anticlockwise direction and you should see that the audio volume is high in the headphone side that faces the "AR Android Object" and is lower on the other side.
 
 This effect causes an illusion of audio coming from the source while we move around spatially.
-
-## Use pre-built APK
-
-To install the pre-built apk, download the APK from [here](https://github.com/anujdutt9/3D-Binaural-Audio/blob/master/APK/BinauralAudio.apk) and install it on your phone. Once, the app is installed, follow steps 7 to 11 as mentioned above.
-
-**NOTE: This APK has been built and tested on Google Pixel and Google Pixel 2 XL.**
