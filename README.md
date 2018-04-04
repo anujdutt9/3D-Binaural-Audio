@@ -48,7 +48,7 @@ Build
 |_ Rebuild Project
 ```
 
-**4.** Connect your Android phone, with BT headphones connected, to your laptop and click on "Run".
+**4.** Connect your Android phone, **with BT headphones connected**, to your laptop and click on "Run".
 
 **5.** Select your device from the list of device and run the app.
 
