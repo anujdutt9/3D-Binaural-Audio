@@ -20,7 +20,7 @@ git clone https://github.com/anujdutt9/3D-Binaural-Audio.git
 
 ## Use pre-built APK
 
-To install the pre-built apk, download the APK from [here](https://github.com/anujdutt9/3D-Binaural-Audio/blob/master/APK/BinauralAudio.apk) and install it on your phone. Once, the app is installed, follow steps 7 to 11 as mentioned above.
+To install the pre-built apk, download the APK from [here](https://github.com/anujdutt9/3D-Binaural-Audio/blob/master/APK/BinauralAudio.apk) and install it on your phone. Once the app is installed, follow steps 7 to 11 as mentioned below.
 
 **NOTE: This APK has been built and tested on Google Pixel and Google Pixel 2 XL.**
 
