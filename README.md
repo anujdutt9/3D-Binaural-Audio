@@ -22,7 +22,7 @@ git clone https://github.com/anujdutt9/3D-Binaural-Audio.git
 
 To install the pre-built apk, download the APK from [here](https://github.com/anujdutt9/3D-Binaural-Audio/blob/master/APK/BinauralAudio.apk) and install it on your phone. Once the app is installed, follow steps 7 to 11 as mentioned below.
 
-**NOTE: This APK has been built and tested on Google Pixel and Google Pixel 2 XL.**
+***NOTE: This APK has been built and tested on Google Pixel and Google Pixel 2 XL.***
 
 ## Build App using Code
 
@@ -80,7 +80,7 @@ app
 
 and paste the audio file under "assets".
 
-**NOTE: Make sure the audio file is a 32-bit Mono audio wav file as this is the format supproted by Android VR Audio Engine.**
+***NOTE: Make sure the audio file is a 32-bit Mono audio wav file as this is the format supproted by Android VR Audio Engine.***
 
 Then, access the code file [here](https://github.com/anujdutt9/3D-Binaural-Audio/blob/master/app/src/main/java/com/google/ar/core/examples/java/helloar/BinauralAudio.java)
 
