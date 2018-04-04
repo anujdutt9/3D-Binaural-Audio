@@ -62,6 +62,6 @@ This effect causes an illusion of audio coming from the source while we move aro
 
 ## Use pre-built APK
 
-To install the pre-built apk, download the APK from (here)[https://github.com/anujdutt9/3D-Binaural-Audio/blob/master/APK/BinauralAudio.apk] and install it on your phone. Once, the app is installed, follow steps 7 to 11 as mentioned above.
+To install the pre-built apk, download the APK from [here](https://github.com/anujdutt9/3D-Binaural-Audio/blob/master/APK/BinauralAudio.apk) and install it on your phone. Once, the app is installed, follow steps 7 to 11 as mentioned above.
 
 **NOTE: This APK has been built and tested on Google Pixel and Google Pixel 2 XL.**
