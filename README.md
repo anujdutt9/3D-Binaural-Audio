@@ -94,3 +94,7 @@ app
 ```
 
 and change the audio file name to your audio file name on [this line](https://github.com/anujdutt9/3D-Binaural-Audio/blob/af73b43bf1e6d01d75f714bdfb576ecb6c95815e/app/src/main/java/com/google/ar/core/examples/java/helloar/BinauralAudio.java#L98) in the code.
+
+# References
+
+Base "Hello AR" app code from Google ARCore examples.
